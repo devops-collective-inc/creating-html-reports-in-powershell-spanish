@@ -1,0 +1,1 @@
+Aprenda a utilizar correctamente ConvertTo-HTML para producir informes HTML de varias secciones, bien formados, y luego vaya más allá con el módulo EnhancedHTML personalizado. Produzca informes hermosos, codificados por colores, dinámicos y de múltiples secciones de forma fácil y rápida. Por Don Jones.
