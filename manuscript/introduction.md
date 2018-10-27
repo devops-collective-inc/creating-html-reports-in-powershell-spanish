@@ -2,8 +2,6 @@
 
 Por Don Jones
 
-Diseño de portada por Nathan Vonnahme
-
 ---
 
 Aprenda a utilizar correctamente ConvertTo-HTML para producir informes HTML de varias secciones y bien formados, pero luego vaya más allá con un módulo EnhancedHTML personalizado. Produaca informes hermosos, codificados por colores, dinámicos y con multi-secciones de forma fácil y rápida. Escrito por Don Jones.
